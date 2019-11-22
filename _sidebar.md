@@ -15,7 +15,7 @@
         - [Constants and Defaults](core-ref-p2p-network-constants-and-defaults.md)
         - [Protocol Versions](core-ref-p2p-network-protocol-versions.md)
         - [Message Headers](core-ref-p2p-network-message-headers.md)
-        - [Control Messages](core-ref-p2p-network-controls-messages.md)
+        - [Control Messages](core-ref-p2p-network-control-messages.md)
         - [Data Messages](core-ref-p2p-network-data-messages.md)
         - [Governance Messages](core-ref-p2p-network-governance-messages.md)
         - [InstantSend Messages](core-ref-p2p-network-instantsend-messages.md)

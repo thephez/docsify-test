@@ -5,6 +5,11 @@
         - [Block Headers](core-ref-block-chain-block-headers.md)
         - [Serialized Blocks](core-ref-block-chain-serialized-blocks.md)
     - [Transactions](core-ref-transactions.md)
+        - [OpCodes](core-ref-transactions-opcodes.md)
+        - [Address Conversion](core-ref-transactions-address-conversion.md)
+        - [Raw Transaction Format](core-ref-transactions-raw-transaction-format.md)
+        - [Special Transactions](core-ref-transactions-special-transactions.md)
+        - [CompactSize Unsigned Integers](core-ref-transactions-compactsize-unsigned-integers.md)
     - [Wallets](core-ref-wallets.md)
     - [P2P Network](core-ref-p2p-network.md)
 

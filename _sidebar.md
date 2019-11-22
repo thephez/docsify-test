@@ -12,6 +12,18 @@
         - [CompactSize Unsigned Integers](core-ref-transactions-compactsize-unsigned-integers.md)
     - [Wallets](core-ref-wallets.md)
     - [P2P Network](core-ref-p2p-network.md)
+        - [Constants and Defaults](core-ref-p2p-network-constants-and-defaults.md)
+        - [Protocol Versions](core-ref-p2p-network-protocol-versions.md)
+        - [Message Headers](core-ref-p2p-network-message-headers.md)
+        - [Control Messages](core-ref-p2p-network-controls-messages.md)
+        - [Data Messages](core-ref-p2p-network-data-messages.md)
+        - [Governance Messages](core-ref-p2p-network-governance-messages.md)
+        - [InstantSend Messages](core-ref-p2p-network-instantsend-messages.md)
+        - [Masternode Messages](core-ref-p2p-network-masternode-messages.md)
+        - [PrivateSend Messages](core-ref-p2p-network-privatesend-messages.md)
+        - [Quorum Messages](core-ref-p2p-network-quorum-messages.md)
+        - [Deprecated Messages](core-ref-p2p-network-deprecated-messages.md)
+    - [Improvement Proposals](core-ref-improvement-proposals.md)
 
 - Core Guides
     - [Guide Intro](core-guide-introduction.md)
